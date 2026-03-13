@@ -1,0 +1,3 @@
+# Fail Project
+
+This project aims to demonstrate XYZ...
